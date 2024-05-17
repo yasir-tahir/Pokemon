@@ -1,0 +1,299 @@
+body{
+    margin: 0px;
+}
+
+
+.head-logo{
+    background-color:#e8e8e8;
+    width: 100%;
+    height: 60px;
+    border-radius: 0.2px;
+    text-align:center;
+    padding: 0px 0px;
+
+}
+
+
+
+
+.grey{
+    
+    display: inline-block;
+    color:#4D4D4D;
+    padding: 5px 20px;
+    border-width: 0px 0px 5px 0px;
+    border-color:#e8e8e8 #e8e8e8 grey  #e8e8e8;
+    border-style: solid;
+    border-radius:0px 0px 0px 10px;
+
+    
+}
+
+.red{
+    
+    display: inline-block;
+    color:#4D4D4D;
+    padding: 5px 20px;
+    border-width: 0px 0px 5px 0px;
+    border-color:#e8e8e8 #e8e8e8 red  #e8e8e8;
+    border-style: solid;
+    
+    
+}
+.orange{
+    
+    display: inline-block;
+    color:#4D4D4D;
+    padding: 5px 20px;
+    border-width: 0px 0px 5px 0px;
+    border-color:#e8e8e8 #e8e8e8 orangered #e8e8e8;
+    border-style: solid;
+    
+    
+}
+
+.yellow{
+    
+    display: inline-block;
+    color:#4D4D4D;
+    padding: 5px 20px;
+    border-width: 0px 0px 5px 0px;
+    border-color:#e8e8e8 #e8e8e8 yellow  #e8e8e8;
+    border-style: solid;
+    
+    
+}
+
+    
+
+
+.sblue{
+    
+    display: inline-block;
+    color:#4D4D4D;
+    padding: 5px 20px;
+    border-width: 0px 0px 5px 0px;
+    border-color:#e8e8e8 #e8e8e8 steelblue  #e8e8e8;
+    border-style: solid;
+    
+    
+}
+
+.green{
+    
+    display: inline-block;
+    color:#4D4D4D;
+    padding: 5px 20px;
+    border-width: 0px 0px 5px 0px;
+    border-color:#e8e8e8 #e8e8e8 green  #e8e8e8;
+    border-style: solid;
+    
+    
+}
+
+.blue{
+    
+    display: inline-block;
+    color:#4D4D4D;
+    padding: 5px 20px;
+    border-width: 0px 0px 5px 0px;
+    border-color:#e8e8e8 #e8e8e8 blue #e8e8e8;
+    border-style: solid;
+    border-radius: 0px 0px 10px 0px ;
+    display: inline-block;
+    
+}
+
+.header{
+    background-color:#FBFBFB;
+    width: 100%;
+    height: 70px;
+    border-radius: 0.2px;
+    padding: 3px 0px;
+    text-align: center;
+}
+/* .front{
+    width: 100%;
+    height: 50%;
+    display: inline-block;
+    text-align: center;
+} */
+
+
+    
+
+
+ .pic-8{
+    display: inline-block;
+ }
+
+
+
+.pic-8{
+    background-color:blue;
+    color: white;
+    width:250px;
+    height: 300px;
+    margin: 5px 0px;
+    text-align: center;
+    
+
+}
+
+.pic-9{
+    display: inline-block;
+ }
+
+
+
+.pic-9{
+    background-color:grey;
+    color: white;
+    width:250px;
+    margin: 5px 0px;
+    text-align: center;
+
+}
+
+.pic-10{
+    display: inline-block;
+ }
+
+
+
+.pic-10{
+    background-color:#C7AA79;
+    color: white;
+    width:250px;
+    margin: 5px 0px;
+    text-align: center;
+
+}
+
+.pic-11{
+    display: inline-block;
+ }
+
+
+
+.pic-11{
+    background-color:#A4A4A4;
+    color: white;
+    width:250px;
+    margin: 5px 0px;
+    text-align: center;
+
+}
+
+.pic-12{
+    display: inline-block;
+ }
+
+
+
+.pic-12{
+    background-color:#EE6B2F;
+    color: white;
+    width:250px;
+    margin: 5px 0px;
+    text-align: center;
+
+}
+
+
+.pic-7{
+    display: inline-block;
+ }
+
+
+
+.pic-7{
+    background-color: purple;
+    color: white;
+    width:500px;
+    height: 475px;
+    margin: 5px 0px;
+    text-align: center;
+
+}
+
+.front{
+    background-image:url(images/texture.jpg) ;
+    width: 95%;
+    height: 100%;
+    text-align: center;
+    border-color:#e8e8e8 black green black;
+    border-style: solid;
+    border-width: 0px 30px 0px 30px;
+    
+}
+
+.side-1{
+    text-align:left;
+    color: black;
+    
+    
+    
+}
+
+.side-1>button{
+    background-color: green;
+    color: white;
+    border:2px 2px solid green !important;   
+    border-width: 10px 10px 0px 0px;
+    }
+
+
+.side-2{
+    text-align: left;
+    
+}
+
+.side-2>button{
+    background-color: grey;
+    color: white;
+    border: 2px 2px solid grey !important;
+    border-width: 0px 10px 10px 0px;
+
+}
+
+.field{
+    display: inline-block;
+}
+.one{
+    display: inline-block;
+ }
+
+
+
+.one{
+    background-color:#4D4D4D;
+    width:250px;
+    margin: 0px ;
+    text-align: center;
+
+}
+
+.oone{
+    background-color: black;
+    color: white;
+    width: 250px;
+    height:80px;
+
+}
+
+.about{
+
+    background-color:#4D4D4D;
+    color: white;
+    width:100%;
+    height: 100%;
+    text-align: left;
+    padding: 30px 300px;
+}
+
+.about>p{
+    text-align: left;
+}
+
+
